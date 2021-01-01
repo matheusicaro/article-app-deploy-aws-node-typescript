@@ -4,9 +4,9 @@
   "description": "A basic typescript app starter rest API",
   "main": "server.js",
   "scripts": {
+    "start:dev": "nodemon",
     "build": "rimraf ./build && tsc",
-    "start:prd": "npm run build && node build/server.js",
-    "start": "nodemon",
+    "start": "npm install && npm run build && node build/server.js",
     "lint": "eslint . --ext .ts",
     "prettier-format": "run-script-os",
     "prettier-format:win32": "prettier --config .prettierrc \"./src/**/*.ts\" --write",
