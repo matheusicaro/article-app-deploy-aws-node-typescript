@@ -1,18 +1,21 @@
 # Simple TypeScript Starter Rest API
 
-- Minimal
-- TypeScript
-- Testing with Jest
-- Linting with Eslint and Prettier
-- Pre-commit hooks with Husky
-- VS Code debugger scripts
-- Local development with Nodemon
+## A simple repository to demonstrate automatic deployment on AWS using Elastic Beanstalk.
+
+
+![Capture](https://user-images.githubusercontent.com/29001162/103491142-02ddf800-4e00-11eb-807d-fbc94e66f0c5.JPG)
+
+# [Article](https://matheusicaro.medium.com/automatic-deployment-on-aws-for-node-js-with-typescript-b6c0797bacf8)
 
 ### Scripts
 
 #### `npm run start`
 
-Starts the application in development using `nodemon` and `ts-node` to do hot reloading.
+Starts the application for deploy in CodePipeline in AWS Cloud
+
+#### `npm run start:dev`
+
+Starts the application in development using nodemon and ts-node to do hot reloading.
 
 #### `npm run start:prd`
 
