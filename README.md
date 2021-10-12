@@ -1,6 +1,6 @@
 # Simple TypeScript Starter Rest API
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/matheusicaro/app-deploy-aws-node-typscript/blob/master/LICENSE)
-
+ 
 ## A simple repository to demonstrate automatic deployment on AWS using Elastic Beanstalk.
 
 
