@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "pt": {
+      "kind": "Open Source - Artigos",
+      "name": "Node com TypeScript: como configurar um deploy automático na AWS com Elastic Beanstalk",
+      "intro": "Para este artigo, quero demonstrar como configurar implantações automáticas de um aplicativo Node.js com TypeScript na nuvem AWS, usando Elastic Beanstalk."
+    },
+    "en": {
+      "kind": "Open Source - Articles",
+      "name": "Node with TypeScript: How to configure automatic deploy on AWS with Elastic Beanstalk",
+      "intro": "For this article, I want to demonstrate how to set up automatic deploys of a Node.js application with TypeScript on the AWS Cloud, using Elastic Beanstalk."
+    },
+    "es": {
+      "kind": "Open Source - Artículos",
+      "name": "Nodo con TypeScript: cómo configurar la implementación automática en AWS con Elastic Beanstalk",
+      "intro": "Para este artículo, quiero demostrar cómo configurar implementaciones automáticas de una aplicación Node.js con TypeScript en la nube de AWS, usando Elastic Beanstalk."
+    },
+    "fr": {
+      "kind": "Open Source - Des articles",
+      "name": "Node with TypeScript : Comment configurer le déploiement automatique sur AWS avec Elastic Beanstalk",
+      "intro": "Pour cet article, je souhaite montrer comment configurer les déploiements automatiques d'une application Node.js avec TypeScript sur le cloud AWS, à l'aide d'Elastic Beanstalk."
+    }
+  },
+  "stack": {
+    "cloud": [
+      {
+        "name": "Amazon AWS",
+        "tags": [
+          "Elastic Beanstalk, EC2 instance"
+        ]
+      }
+    ],
+    "backend": [
+      {
+        "name": "Node.js",
+        "tags": ["JavaScript", "TypeScript", "Swagger-ui", "Express", "Jest", "Husky", "eslint"]
+      }
+    ]
+  }
+}
