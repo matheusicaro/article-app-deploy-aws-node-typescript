@@ -26,14 +26,14 @@
       {
         "name": "Amazon AWS",
         "tags": [
-          "Elastic Beanstalk", "EC2 instance"
+          "AWS BeanStalk", "AWS EC2", "AWS CodeDeploy", "AWS CodePipeline", "AWS CodeCommit"
         ]
       }
     ],
     "backend": [
       {
         "name": "Node.js",
-        "tags": ["JavaScript", "TypeScript", "Swagger-ui", "Express", "Jest", "Husky", "eslint"]
+        "tags": ["JavaScript", "TypeScript", "Express", "Jest", "Husky", "eslint"]
       }
     ]
   }
