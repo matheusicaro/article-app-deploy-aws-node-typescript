@@ -21,6 +21,7 @@
       "intro": "Pour cet article, je souhaite montrer comment configurer les déploiements automatiques d'une application Node.js avec TypeScript sur le cloud AWS, à l'aide d'Elastic Beanstalk."
     }
   },
+  "tags": ["Node.js", "TypeScript", "Express", "JavaScript", "Amazon AWS", "AWS-BeanStalk", "AWS-EC2", "AWS-CodeDeploy", "AWS-CodePipeline", "AWS-CodeCommit", "Back-end"],
   "stack": {
     "cloud": [
       {
